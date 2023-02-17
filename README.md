@@ -14,3 +14,5 @@ The analysis reveals several key insights into employee turnover rates. For inst
 Furthermore, the analysis shows that employees who have tenure of 1 year have a higher turnover rate, emphasizing the need for positive interactions between staff and current manager. Males have worked overtime as well as are frequent travellers. This implies that in order to achieve gender equity and foster a more inclusive working culture, the firm may need to reassess its policies and procedures.
 
 Overall, the analysis of employee turnover data provides critical insights that organizations can use to inform their talent retention strategies and reduce turnover rates, leading to increased productivity.
+
+**Checkout the dashboard: https://app.powerbi.com/links/1Lg-W0nXFj?ctid=e871a6a1-5172-4b9e-a83f-984260b150eb&pbi_source=linkShare&bookmarkGuid=0efd5430-f76f-4943-b738-fd606d7793b5 **
