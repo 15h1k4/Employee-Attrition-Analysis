@@ -15,4 +15,4 @@ Furthermore, the analysis shows that employees who have tenure of 1 year have a 
 
 Overall, the analysis of employee turnover data provides critical insights that organizations can use to inform their talent retention strategies and reduce turnover rates, leading to increased productivity.
 
-**Checkout the dashboard:** https://app.powerbi.com/links/1Lg-W0nXFj?ctid=e871a6a1-5172-4b9e-a83f-984260b150eb&pbi_source=linkShare&bookmarkGuid=0efd5430-f76f-4943-b738-fd606d7793b5 
+**Checkout the dashboard:** https://app.powerbi.com/links/1Lg-W0nXFj?ctid=e871a6a1-5172-4b9e-a83f-984260b150eb&pbi_source=linkShare
