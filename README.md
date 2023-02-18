@@ -1,4 +1,4 @@
-# HR-Attrition-Analysis
+# Employee-Attrition-Analysis
 
 **Introduction:**
 This project aims to analyze employee turnover data and provide insights to inform talent retention strategies. Employee turnover is a significant challenge for organizations as it not only impacts productivity but also incurs costs associated with recruiting and training new employees. The analysis will help identify the factors contributing to employee turnover and provide recommendations to reduce turnover rates.
